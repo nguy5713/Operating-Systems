@@ -3,3 +3,6 @@ It is the operating system that powers many of the company's mobile devices, inc
 it also powered the iPad until the introduction of iPadOS in 2019.
 
 Microsoft Windows, commonly referred to as Windows, is a group of several proprietary graphical operating system families, all of which are developed and marketed by Microsoft. Each family caters to a certain sector of the computing industry.
+
+The LynxOS RTOS is a Unix-like real-time operating system from Lynx Software Technologies. 
+Sometimes known as the Lynx Operating System, LynxOS features full POSIX conformance and, more recently, Linux compatibility.
